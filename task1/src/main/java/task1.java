@@ -12,5 +12,7 @@ public class task1 {
         inputList.add(scanner.nextInt());
 
         inputList.forEach(System.out::println);
+
+        scanner.close();
     }
 }
