@@ -1,2 +1,4 @@
 rootProject.name = 'task-resolver'
+include 'task1'
+include 'task2'
 
