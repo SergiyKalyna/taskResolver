@@ -8,9 +8,7 @@ public class Solution {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
         int month = Integer.parseInt(bufferedReader.readLine());
-
         int day = Integer.parseInt(bufferedReader.readLine());
-
         int year = Integer.parseInt(bufferedReader.readLine());
 
         int res = Result.findDay(month, day, year);

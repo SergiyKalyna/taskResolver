@@ -17,3 +17,20 @@ N
 task2/src/main/java/Task2.java,e/b/eb6a3bc4d060cf196553d6fe06e7a27e1ad1e4c1
 Q
 !Task4/src/main/java/Solution.java,f/d/fd47804fcd810d08d422e06c1e05b4d9a0011d3e
+B
+task2/build.gradle,3/f/3f24033a4e6e09d286ca5e5c8d164b320f9dfe6d
+B
+task1/build.gradle,a/1/a1ac5e0e3def2cfc485c713701b08c7d8a5c69fe
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+B
+task6/build.gradle,a/a/aa7d51cae0c37d2b7f1d34bbf885ab25e5fec8da
+B
+task3/build.gradle,6/1/61208c32813cfd7ae3955a49911a26d6f55e2f7b
+B
+Task4/build.gradle,c/2/c2d982dc4b920190b4515d268d775f135fdfd538
+?
+settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+B
+task5/build.gradle,6/9/69be59cb827cb020f88433eaed0376ccd42ab5c9
