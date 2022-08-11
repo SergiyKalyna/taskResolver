@@ -34,3 +34,27 @@ B
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 B
 task5/build.gradle,6/9/69be59cb827cb020f88433eaed0376ccd42ab5c9
+Q
+!task5/src/main/java/Solution.java,1/a/1a207c5fdb9c6d86b6977b98530416ef63ab8aa8
+Q
+!task6/src/main/java/Solution.java,7/2/72266323b4d560c41514feffdf1e5db264f9f947
+O
+task6/src/main/java/Result.java,4/d/4d360dfcd8a76966a807f46aaba780db3e89d0fa
+B
+task7/build.gradle,5/e/5efd930fce05e607ff9c2337d159a9ec25c9954e
+T
+$task7/src/main/java/InputReader.java,d/4/d4ea08effdb3b948b099beb1b5382e5fcfc3e67e
+V
+&task7/src/main/java/StringManager.java,2/8/28e2989cd7fab08e6cb32efe6a48e13c272ff7cf
+Q
+!task7/src/main/java/Solution.java,f/6/f69a2c668b608545ea363ad4ecbd0947e513437f
+B
+task8/build.gradle,a/c/aca40837978b2302343944572596907dfce02540
+Q
+!task9/src/main/java/Solution.java,9/9/998ec1cc005a60ef756a907b3494977e145ba357
+B
+task9/build.gradle,6/1/617ab471963d8280c15e82d0e743d7000f8ebb87
+Q
+!task8/src/main/java/Solution.java,1/5/15ea498f379bc8b2f5f2d23c782156c24e6a4e86
+C
+task10/build.gradle,3/0/30496a27d4fa7d41c7a2646c89f307f566085c14
