@@ -18,6 +18,8 @@ public class Solution {
         }
 
         printer(sortArray(inputList));
+
+        bufferedReader.close();
     }
 
     public static List<Integer> sortArray(List<Integer> list) {
