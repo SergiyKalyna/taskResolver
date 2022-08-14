@@ -18,6 +18,8 @@ public class Solution {
 
             regex.getListWithoutDuplicate(inputList).forEach(System.out::println);
         }
+
+        inputReader.close();
     }
 
     public static boolean checkValidNumber(int number) {
