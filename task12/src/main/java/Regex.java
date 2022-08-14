@@ -1,7 +1,5 @@
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class Regex {
 
@@ -30,7 +28,7 @@ public class Regex {
 
         for (String allWord : allWords) {
             if (allWord != "remove") {
-                result = result + allWord +" ";
+                result = result + allWord + " ";
             }
         }
 
