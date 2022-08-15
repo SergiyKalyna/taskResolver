@@ -10,11 +10,7 @@ X
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 N
-task1/src/main/java/task1.java,8/0/8013b7c3b417d4213db1da62cbf1c049a2f1be56
-N
 task3/src/main/java/Task3.java,5/f/5fd3d49d2b45ec644693ab34c81916c2c3268552
-N
-task2/src/main/java/Task2.java,e/b/eb6a3bc4d060cf196553d6fe06e7a27e1ad1e4c1
 Q
 !Task4/src/main/java/Solution.java,f/d/fd47804fcd810d08d422e06c1e05b4d9a0011d3e
 B
@@ -58,3 +54,13 @@ Q
 !task8/src/main/java/Solution.java,1/5/15ea498f379bc8b2f5f2d23c782156c24e6a4e86
 C
 task10/build.gradle,3/0/30496a27d4fa7d41c7a2646c89f307f566085c14
+Q
+!task10/src/main/java/MyRegex.java,2/a/2abac163acd36240ca90366da13fc75b99ea7be3
+R
+"task10/src/main/java/Solution.java,7/5/7530b061a49bd864c64460606d9759ef4353ebbf
+R
+"task11/src/main/java/Solution.java,5/f/5fa8480591372ec56297b74dc8bcd5f2cd8c5b84
+C
+task11/build.gradle,8/6/8689fa2ace571e460df9b772bae0868e84dcb904
+C
+task12/build.gradle,3/3/3321ef79968a759369192d11721402bf465c4604
