@@ -6,33 +6,23 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import static java.lang.System.in;
-import static java.lang.System.out;
-
 public class Solution {
     public static void main(String[] args) throws IOException {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         String inputData1 = reader.readLine();
         String inputData2 = reader.readLine();
         String inputData3 = reader.readLine();
 
-        if (!checkInputData(inputData1) || !checkInputData(inputData2) || !checkInputData(inputData3)) {
-            throw new RuntimeException("Input data i snot valid");
-        }
         List<String> inputList = List.of(inputData1, inputData2, inputData3);
         List<String> concatList = splitInputData(inputList);
 
-        checkValidNumbers(concatList);
+        checkValidData(concatList);
 
         Map<String, String> map = convertInputDataToMap(concatList);
 
         printer(map);
         reader.close();
-    }
-
-    public static boolean checkInputData(String text) {
-        return text.length() <= 10;
     }
 
     public static Map<String, String> convertInputDataToMap(List<String> list) {
@@ -57,11 +47,17 @@ public class Solution {
         return concatList;
     }
 
-    public static void checkValidNumbers(List<String> list) throws RuntimeException {
+    public static void checkValidData(List<String> list) throws RuntimeException {
         for (int i = 1; i < list.size(); i += 2) {
             int number = Integer.parseInt(list.get(i));
             if (number < 0 || number > 999) {
-                throw new RuntimeException("Input data i snot valid");
+                throw new RuntimeException("Input number is not valid");
+            }
+        }
+
+        for (int i = 0; i < list.size(); i += 2) {
+            if (list.get(i).length() > 10) {
+                throw new RuntimeException("Input text i snot valid");
             }
         }
     }
@@ -77,12 +73,23 @@ public class Solution {
     }
 
     public static void printer(Map<String, String> map) {
-        out.println("================================");
+        System.out.println("================================");
 
         for (Map.Entry<String, String> entry : map.entrySet()) {
-            out.println(entry.getKey() + "               " + entry.getValue());
+            System.out.println(getConcatStringsWithSpaces(entry.getKey(), entry.getValue()));
         }
 
-        out.println("================================");
+        System.out.println("================================");
+    }
+
+    public static String getConcatStringsWithSpaces(String text1, String text2) {
+        int necessarySpaces = 15 - text1.length();
+        String spaces = "";
+
+        for (int i = 0; i < necessarySpaces; i++) {
+            spaces += " ";
+        }
+
+        return text1.concat(spaces.concat(text2));
     }
 }
