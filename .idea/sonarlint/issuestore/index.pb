@@ -9,10 +9,6 @@ X
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-N
-task3/src/main/java/Task3.java,5/f/5fd3d49d2b45ec644693ab34c81916c2c3268552
-Q
-!Task4/src/main/java/Solution.java,f/d/fd47804fcd810d08d422e06c1e05b4d9a0011d3e
 B
 task2/build.gradle,3/f/3f24033a4e6e09d286ca5e5c8d164b320f9dfe6d
 B
@@ -30,12 +26,6 @@ B
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 B
 task5/build.gradle,6/9/69be59cb827cb020f88433eaed0376ccd42ab5c9
-Q
-!task5/src/main/java/Solution.java,1/a/1a207c5fdb9c6d86b6977b98530416ef63ab8aa8
-Q
-!task6/src/main/java/Solution.java,7/2/72266323b4d560c41514feffdf1e5db264f9f947
-O
-task6/src/main/java/Result.java,4/d/4d360dfcd8a76966a807f46aaba780db3e89d0fa
 T
 $task7/src/main/java/InputReader.java,d/4/d4ea08effdb3b948b099beb1b5382e5fcfc3e67e
 V
@@ -58,3 +48,11 @@ C
 task11/build.gradle,8/6/8689fa2ace571e460df9b772bae0868e84dcb904
 C
 task12/build.gradle,3/3/3321ef79968a759369192d11721402bf465c4604
+C
+task14/build.gradle,9/e/9efb0fb2e291e6001b7368eff87a53e76e45b938
+B
+task7/build.gradle,5/e/5efd930fce05e607ff9c2337d159a9ec25c9954e
+R
+"task14/src/main/java/Solution.java,d/7/d7f97a80520747bcbb9278aff2db9330e4aecfc4
+C
+task15/build.gradle,b/7/b7ac75ad5e057c4cf84ee7c486a39de7f9a28381
