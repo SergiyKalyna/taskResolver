@@ -18,6 +18,7 @@ public class Solution {
     public static void checkInputNumber(int number) {
         if (number < 0) {
             throw new RuntimeException("Input number is not valid");
+
         }
     }
 
