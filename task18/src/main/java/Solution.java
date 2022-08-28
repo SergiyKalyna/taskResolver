@@ -18,6 +18,12 @@ public class Solution {
     }
 
     public static void checkInputData(String text, int number) {
+        String regex = "^[a-zA-Z]*$";
+
+        if (!text.matches(regex)) {
+            throw new RuntimeException("Input string is not valid");
+        }
+
         if (text.length() < 1 || text.length() > 1000) {
             throw new RuntimeException("Input string is not valid");
         }
