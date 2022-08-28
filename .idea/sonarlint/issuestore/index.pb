@@ -26,16 +26,10 @@ B
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 B
 task5/build.gradle,6/9/69be59cb827cb020f88433eaed0376ccd42ab5c9
-T
-$task7/src/main/java/InputReader.java,d/4/d4ea08effdb3b948b099beb1b5382e5fcfc3e67e
 V
 &task7/src/main/java/StringManager.java,2/8/28e2989cd7fab08e6cb32efe6a48e13c272ff7cf
 Q
-!task7/src/main/java/Solution.java,f/6/f69a2c668b608545ea363ad4ecbd0947e513437f
-Q
 !task9/src/main/java/Solution.java,9/9/998ec1cc005a60ef756a907b3494977e145ba357
-Q
-!task8/src/main/java/Solution.java,1/5/15ea498f379bc8b2f5f2d23c782156c24e6a4e86
 C
 task10/build.gradle,3/0/30496a27d4fa7d41c7a2646c89f307f566085c14
 Q

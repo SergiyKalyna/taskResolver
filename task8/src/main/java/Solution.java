@@ -8,23 +8,31 @@ public class Solution {
 
         String text = bufferedReader.readLine();
         String numbers = bufferedReader.readLine();
-        int start = Integer.parseInt(numbers.substring(0, 1));
-        int end = Integer.parseInt(numbers.substring(2, 3));
+        bufferedReader.close();
+
+        String[] arr = numbers.split(" ");
+
+        int start = Integer.parseInt(arr[0]);
+        int end = Integer.parseInt(arr[1]);
 
         checkInputData(text, start, end);
 
-        System.out.printf(getTextConversion(text, start, end));
-
-        bufferedReader.close();
+        System.out.println(getTextConversion(text, start, end));
     }
 
     public static void checkInputData(String inputText, int inputNumber1, int inputNumber2) {
-        if (inputText.length() < 1 && inputText.length() > 100 && inputText.length() < inputNumber2) {
-            System.out.printf("Input text is not valid");
+        String regex = "^[a-zA-Z]*$";
+
+        if (!inputText.matches(regex)) {
+            throw new RuntimeException("Input string is not valid");
         }
 
-        if (inputNumber1 < 0 && inputNumber1 > inputNumber2) {
-            System.out.println("Input numbers is not valid");
+        if (inputText.length() < 1 || inputText.length() > 100 || inputText.length() < inputNumber2) {
+            throw new RuntimeException("Input string is not valid");
+        }
+
+        if (inputNumber1 < 0 || inputNumber1 > inputNumber2) {
+            throw new RuntimeException("Input numbers is not valid");
         }
     }
 
