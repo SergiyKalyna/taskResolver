@@ -1,15 +1,13 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Solution {
-    public static void main(String[] args) throws IOException {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        while (scanner.hasNext()) {
+            String IP = scanner.next();
+            System.out.println(IP.matches(new MyRegex().pattern));
+        }
 
-        String ip = bufferedReader.readLine();
-
-        MyRegex regex = new MyRegex(ip);
-
-        bufferedReader.close();
+        scanner.close();
     }
 }

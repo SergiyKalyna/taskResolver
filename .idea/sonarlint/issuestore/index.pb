@@ -13,9 +13,6 @@ B
 task2/build.gradle,3/f/3f24033a4e6e09d286ca5e5c8d164b320f9dfe6d
 B
 task1/build.gradle,a/1/a1ac5e0e3def2cfc485c713701b08c7d8a5c69fe
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 B
 task6/build.gradle,a/a/aa7d51cae0c37d2b7f1d34bbf885ab25e5fec8da
 B
@@ -32,12 +29,6 @@ Q
 !task9/src/main/java/Solution.java,9/9/998ec1cc005a60ef756a907b3494977e145ba357
 C
 task10/build.gradle,3/0/30496a27d4fa7d41c7a2646c89f307f566085c14
-Q
-!task10/src/main/java/MyRegex.java,2/a/2abac163acd36240ca90366da13fc75b99ea7be3
-R
-"task10/src/main/java/Solution.java,7/5/7530b061a49bd864c64460606d9759ef4353ebbf
-R
-"task11/src/main/java/Solution.java,5/f/5fa8480591372ec56297b74dc8bcd5f2cd8c5b84
 C
 task11/build.gradle,8/6/8689fa2ace571e460df9b772bae0868e84dcb904
 C
@@ -46,14 +37,8 @@ C
 task14/build.gradle,9/e/9efb0fb2e291e6001b7368eff87a53e76e45b938
 B
 task7/build.gradle,5/e/5efd930fce05e607ff9c2337d159a9ec25c9954e
-R
-"task14/src/main/java/Solution.java,d/7/d7f97a80520747bcbb9278aff2db9330e4aecfc4
 C
 task15/build.gradle,b/7/b7ac75ad5e057c4cf84ee7c486a39de7f9a28381
-R
-"task15/src/main/java/Solution.java,e/0/e0ac2dd9a664d2dce8f8d6b30f4d4eb27a82d585
-R
-"task16/src/main/java/Solution.java,7/a/7a075933a59616f860f2164d27eae7001cfe8756
 C
 task17/build.gradle,a/4/a4205952401549f23261e91c1f23f9f1916b6dd5
 N
@@ -66,8 +51,6 @@ O
 task6/src/main/java/Result.java,4/d/4d360dfcd8a76966a807f46aaba780db3e89d0fa
 Q
 !task6/src/main/java/Solution.java,7/2/72266323b4d560c41514feffdf1e5db264f9f947
-R
-"task17/src/main/java/Solution.java,a/a/aa7602d177b498fbf3e36d7a05bf88f09106d270
 C
 task18/build.gradle,e/d/ed7eee29877d7b6c82a84231ff76a42f02b114dd
 T
