@@ -73,9 +73,6 @@ Q
 !task8/src/main/java/Solution.java,1/5/15ea498f379bc8b2f5f2d23c782156c24e6a4e86
 C
 task21/build.gradle,a/2/a26e26f895f5578352441d75046c8f1c3f7b3b8b
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 C
 task22/build.gradle,a/e/aeebbd9c2bd138c62105e013047a8994f209b547
 R
