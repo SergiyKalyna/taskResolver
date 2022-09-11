@@ -11,10 +11,10 @@ public class Solution {
         int quantityNumbers = Integer.parseInt(bufferedReader.readLine());
         checkInputNumber(quantityNumbers);
 
-        List<Integer> inputList = new ArrayList<>();
+        List<String> inputList = new ArrayList<>();
 
         for (int i = 0; i < quantityNumbers; i++) {
-            inputList.add(Integer.parseInt(bufferedReader.readLine()));
+            inputList.add(bufferedReader.readLine());
         }
 
         printer(sortArray(inputList));
@@ -22,14 +22,14 @@ public class Solution {
         bufferedReader.close();
     }
 
-    public static List<Integer> sortArray(List<Integer> list) {
+    public static List<String> sortArray(List<String> list) {
 //        Collections.sort(list);
 //        Collections.reverse(list);
 
         for (int i = 0; i < list.size(); i++) {
             for (int j = 0; j < list.size() - 1; j++) {
-                if (list.get(j) < list.get(j + 1)) {
-                    int swap = list.get(j);
+                if (Double.parseDouble(list.get(j)) < Double.parseDouble(list.get(j + 1))) {
+                    String swap = list.get(j);
                     list.set(j, list.get(j + 1));
                     list.set(j + 1, swap);
                 }
@@ -45,7 +45,7 @@ public class Solution {
         }
     }
 
-    public static void printer(List<Integer> list) {
+    public static void printer(List<String> list) {
         list.forEach(System.out::println);
     }
 }

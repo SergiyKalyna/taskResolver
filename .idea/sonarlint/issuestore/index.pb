@@ -92,6 +92,4 @@ U
 R
 "task12/src/main/java/Solution.java,a/2/a2386a11b92328d0a5f955870fadc827a6f9bda1
 R
-"task11/src/main/java/Solution.java,5/f/5fa8480591372ec56297b74dc8bcd5f2cd8c5b84
-R
 "task21/src/main/java/Solution.java,d/2/d236639ed9947967cf76d9470da67479d7485f23
