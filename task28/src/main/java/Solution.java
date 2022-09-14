@@ -25,7 +25,7 @@ public class Solution {
 
         List<String> coordinates = getCoordinates(quantityCoordinate);
 
-        List<Integer> resultOfSearch = searchByCoordinates();
+        List<Integer> resultOfSearch = searchByCoordinates(integersList, coordinates);
 
         resultOfSearch.forEach(System.out::println);
         READER.close();
@@ -61,5 +61,20 @@ public class Solution {
         }
 
         return coordinates;
+    }
+
+    public static List<Integer> searchByCoordinates(List<List<Integer>> integersList,
+                                                    List<String> coordinates) {
+
+        List<Integer> result = new ArrayList<>();
+        for (int i = 0; i < coordinates.size(); i++) {
+            List<Integer> points = convertStringToList(coordinates.get(i));
+            int x = points.get(0);
+            int y = points.get(1);
+
+            result.add(integersList.get(x - 1).get(y - 1));
+        }
+
+        return result;
     }
 }
