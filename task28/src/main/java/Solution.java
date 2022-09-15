@@ -25,7 +25,7 @@ public class Solution {
 
         List<String> coordinates = getCoordinates(quantityCoordinate);
 
-        List<Integer> resultOfSearch = searchByCoordinates(integersList, coordinates);
+        List<String> resultOfSearch = searchByCoordinates(integersList, coordinates, quantityN);
 
         resultOfSearch.forEach(System.out::println);
         READER.close();
@@ -63,16 +63,25 @@ public class Solution {
         return coordinates;
     }
 
-    public static List<Integer> searchByCoordinates(List<List<Integer>> integersList,
-                                                    List<String> coordinates) {
+    public static List<String> searchByCoordinates(List<List<Integer>> integersList,
+                                                   List<String> coordinates,
+                                                   int number) {
 
-        List<Integer> result = new ArrayList<>();
+        List<String> result = new ArrayList<>();
         for (int i = 0; i < coordinates.size(); i++) {
             List<Integer> points = convertStringToList(coordinates.get(i));
             int x = points.get(0);
             int y = points.get(1);
 
-            result.add(integersList.get(x - 1).get(y - 1));
+            if (x < 1 || x > number) {
+                throw new RuntimeException("Input coordinates is not valid");
+            }
+
+            try {
+                result.add(String.valueOf(integersList.get(x - 1).get(y - 1)));
+            } catch (Exception e) {
+                result.add("ERROR!");
+            }
         }
 
         return result;
