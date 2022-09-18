@@ -29,4 +29,5 @@ findProject(':task25:task26')?.name = 'task26'
 include 'task27'
 include 'task28'
 include 'task29'
+include 'task30'
 
