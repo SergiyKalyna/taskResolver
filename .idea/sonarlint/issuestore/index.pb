@@ -95,8 +95,6 @@ R
 "task21/src/main/java/Solution.java,d/2/d236639ed9947967cf76d9470da67479d7485f23
 R
 "task10/src/main/java/Solution.java,7/5/7530b061a49bd864c64460606d9759ef4353ebbf
-Q
-!task10/src/main/java/MyRegex.java,2/a/2abac163acd36240ca90366da13fc75b99ea7be3
 R
 "task22/src/main/java/Solution.java,9/4/94557c271fee243977de50c85e63c0e0e33e7914
 C
