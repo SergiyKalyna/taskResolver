@@ -17,6 +17,8 @@ public class Solution {
 
         for (int i = 0; i < quantityLines; i++) {
             String inputLine = reader.readLine();
+            checkLine(inputLine);
+
             if (inputSet.contains(inputLine)) {
                 countList.add(inputSet.size());
             } else {
