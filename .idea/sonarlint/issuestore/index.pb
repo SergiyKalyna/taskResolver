@@ -114,3 +114,29 @@ C
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+R
+"task34/src/main/java/Solution.java,8/7/87f7d4acfb0343aade6e0a7012e9a925b499c8a0
+C
+task35/build.gradle,d/e/de5ce9185c164b5e5d6d7a63aaca984e62ea5874
+R
+"task35/src/main/java/Solution.java,1/7/1712d47186c821db712b89b1556b87bd8e4f1ab1
+P
+ task35/src/main/java/Player.java,1/b/1b76ebb31ac1b1c5004874e6f0f42d44c2a9813c
+C
+task36/build.gradle,7/2/724f8b88ac0ba2bcede62d2157fb9268664bd82d
+R
+"task36/src/main/java/Solution.java,9/3/9305d0cf5ebc05892682e59e519b9a100535d133
+Q
+!task36/src/main/java/Student.java,8/f/8fee30842f22fe4a60c6e4abee25a7f2a70f4758
+C
+task37/build.gradle,8/1/810bd04c0c4f08b5ef3f17c7427f46f74d62fb07
+R
+"task37/src/main/java/Solution.java,2/2/22fd9fd0c17582965cb31744556de18ad8c154ac
+C
+task38/build.gradle,c/b/cbb516180e35d8d82bd79e7812b6f6097a6cd8f7
+R
+"task38/src/main/java/Solution.java,2/5/254498af48a009d97be82c89f70a5d9bc8af1150
+R
+"task33/src/main/java/Solution.java,1/4/146c9ab0fa3b97a9f398b24e5308cae423f5e9ae
+C
+task39/build.gradle,a/1/a1ce2f7dfcc94e9304c099fc8ea6b2ed59dff2b4
