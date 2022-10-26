@@ -160,3 +160,25 @@ R
 "task41/src/main/java/Solution.java,a/5/a5ae1de808e345fb6219d591402e838a59da012f
 C
 task42/build.gradle,c/b/cb48e78196cf51e78bbe5ccf5beeea4d115dda27
+R
+"task42/src/main/java/Solution.java,1/f/1f2596ecf3f04418e453d5c1c65187b98bafc5e6
+\
+,task42/src/main/java/AdvancedArithmetic.java,e/3/e33f3e7c9eeb404b9a863c6015280894d8c48319
+V
+&task42/src/main/java/MyCalculator.java,3/1/3173494c844b364d52e9c49acef268181dc78742
+C
+task43/build.gradle,5/7/5799a35441802fe9ed5528e65d092dfcca4b9a43
+R
+"task43/src/main/java/Solution.java,b/d/bd92161ba4f306e7d5e01daca6228862029c6123
+P
+ task43/src/main/java/Hacker.java,0/2/021a1c6cedd19ad1435837df6e452e934f3f1937
+Q
+!task43/src/main/java/Student.java,4/5/45f395bdb7f3e84f7fce40bcd0741733563f36ca
+R
+"task43/src/main/java/Rockstar.java,0/4/042c13203a75c2ccbfb46503c438a968166c9c48
+C
+task44/build.gradle,0/1/01aa3715e57836bf400be81a87ef259b77c8d8b6
+R
+"task44/src/main/java/Solution.java,4/d/4d8bf7509949d500e545d83e3d511e794548ed53
+C
+task45/build.gradle,4/5/451042b3d2af8175ba6dd4c950b680f69fd053c9
