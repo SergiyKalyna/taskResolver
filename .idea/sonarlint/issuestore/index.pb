@@ -5,32 +5,22 @@
 gradlew.bat,2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3
 X
 (gradle/wrapper/gradle-wrapper.properties,f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
-<
-build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 B
-task2/build.gradle,3/f/3f24033a4e6e09d286ca5e5c8d164b320f9dfe6d
-B
 task1/build.gradle,a/1/a1ac5e0e3def2cfc485c713701b08c7d8a5c69fe
-B
-task6/build.gradle,a/a/aa7d51cae0c37d2b7f1d34bbf885ab25e5fec8da
 B
 task3/build.gradle,6/1/61208c32813cfd7ae3955a49911a26d6f55e2f7b
 B
 Task4/build.gradle,c/2/c2d982dc4b920190b4515d268d775f135fdfd538
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
-B
-task5/build.gradle,6/9/69be59cb827cb020f88433eaed0376ccd42ab5c9
 V
 &task7/src/main/java/StringManager.java,2/8/28e2989cd7fab08e6cb32efe6a48e13c272ff7cf
 Q
 !task9/src/main/java/Solution.java,9/9/998ec1cc005a60ef756a907b3494977e145ba357
 C
 task10/build.gradle,3/0/30496a27d4fa7d41c7a2646c89f307f566085c14
-C
-task11/build.gradle,8/6/8689fa2ace571e460df9b772bae0868e84dcb904
 C
 task12/build.gradle,3/3/3321ef79968a759369192d11721402bf465c4604
 C
@@ -39,8 +29,6 @@ B
 task7/build.gradle,5/e/5efd930fce05e607ff9c2337d159a9ec25c9954e
 C
 task15/build.gradle,b/7/b7ac75ad5e057c4cf84ee7c486a39de7f9a28381
-C
-task17/build.gradle,a/4/a4205952401549f23261e91c1f23f9f1916b6dd5
 N
 task3/src/main/java/Task3.java,5/f/5fd3d49d2b45ec644693ab34c81916c2c3268552
 Q
@@ -57,8 +45,6 @@ T
 $task7/src/main/java/InputReader.java,d/4/d4ea08effdb3b948b099beb1b5382e5fcfc3e67e
 Q
 !task7/src/main/java/Solution.java,f/6/f69a2c668b608545ea363ad4ecbd0947e513437f
-C
-task16/build.gradle,3/a/3a9cc5e3451d7d97eb8bf28974ebd3e11d1f7fbb
 R
 "task18/src/main/java/Solution.java,4/9/497d4acf379d47c7cabd7f37ff5f0f03cfde1813
 C
@@ -71,8 +57,6 @@ R
 "task20/src/main/java/Solution.java,9/9/998af4facd5b43678e95d2d3c79403f9157d6b73
 Q
 !task8/src/main/java/Solution.java,1/5/15ea498f379bc8b2f5f2d23c782156c24e6a4e86
-C
-task21/build.gradle,a/2/a26e26f895f5578352441d75046c8f1c3f7b3b8b
 C
 task22/build.gradle,a/e/aeebbd9c2bd138c62105e013047a8994f209b547
 R
@@ -122,8 +106,6 @@ R
 "task35/src/main/java/Solution.java,1/7/1712d47186c821db712b89b1556b87bd8e4f1ab1
 P
  task35/src/main/java/Player.java,1/b/1b76ebb31ac1b1c5004874e6f0f42d44c2a9813c
-C
-task36/build.gradle,7/2/724f8b88ac0ba2bcede62d2157fb9268664bd82d
 R
 "task36/src/main/java/Solution.java,9/3/9305d0cf5ebc05892682e59e519b9a100535d133
 Q
@@ -138,8 +120,6 @@ R
 "task38/src/main/java/Solution.java,2/5/254498af48a009d97be82c89f70a5d9bc8af1150
 R
 "task33/src/main/java/Solution.java,1/4/146c9ab0fa3b97a9f398b24e5308cae423f5e9ae
-C
-task39/build.gradle,a/1/a1ce2f7dfcc94e9304c099fc8ea6b2ed59dff2b4
 R
 "task39/src/main/java/Solution.java,7/c/7ccead556a8cb3abd00d042eaecf1017ba334cbe
 S
@@ -148,8 +128,6 @@ Q
 !task39/src/main/java/Checker.java,e/a/eab3d923a93e76663f4c706c6913a4c5d607b9f9
 Q
 !task39/src/main/java/Student.java,4/2/4287f5ec16c430387827de283ecabdfa3f761a76
-C
-task40/build.gradle,2/2/22c85633a1a90e5c046134daacbaec878addd4bd
 R
 "task40/src/main/java/Solution.java,c/1/c1820646340fe659614cdc44cfd7d263ac3c401f
 C
@@ -158,16 +136,12 @@ V
 &task41/src/main/java/MyCalculator.java,8/d/8d17e538ba3744e8f46129ca6ed756b1f0df4787
 R
 "task41/src/main/java/Solution.java,a/5/a5ae1de808e345fb6219d591402e838a59da012f
-C
-task42/build.gradle,c/b/cb48e78196cf51e78bbe5ccf5beeea4d115dda27
 R
 "task42/src/main/java/Solution.java,1/f/1f2596ecf3f04418e453d5c1c65187b98bafc5e6
 \
 ,task42/src/main/java/AdvancedArithmetic.java,e/3/e33f3e7c9eeb404b9a863c6015280894d8c48319
 V
 &task42/src/main/java/MyCalculator.java,3/1/3173494c844b364d52e9c49acef268181dc78742
-C
-task43/build.gradle,5/7/5799a35441802fe9ed5528e65d092dfcca4b9a43
 R
 "task43/src/main/java/Solution.java,b/d/bd92161ba4f306e7d5e01daca6228862029c6123
 P
@@ -176,8 +150,6 @@ Q
 !task43/src/main/java/Student.java,4/5/45f395bdb7f3e84f7fce40bcd0741733563f36ca
 R
 "task43/src/main/java/Rockstar.java,0/4/042c13203a75c2ccbfb46503c438a968166c9c48
-C
-task44/build.gradle,0/1/01aa3715e57836bf400be81a87ef259b77c8d8b6
 R
 "task44/src/main/java/Solution.java,4/d/4d8bf7509949d500e545d83e3d511e794548ed53
 C
